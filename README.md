@@ -1,2 +1,2 @@
-Game prototype with first level implemented.
+Rhythm game prototype with first level implemented.<br />
 Written in Unity and C#.
