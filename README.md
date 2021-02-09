@@ -18,7 +18,8 @@ Rhythm game prototype with first level implemented for the Newcastle University 
 <a name = "endScreen"><img src="https://github.com/Akeilee/Rhythm-Prototype-Level/blob/master/Screenshots/EndScreen.PNG" width = "400"></a> 
 
 **Designs:**<br /><br />
-<a name = "design"><img src="https://github.com/Akeilee/Rhythm-Prototype-Level/blob/master/Screenshots/assets.png" width = "350"></a> <br />
+<a name = "design"><img src="https://github.com/Akeilee/Rhythm-Prototype-Level/blob/master/Screenshots/assets.png" width = "350"></a> <br /><br />
+
 
 ### Keybinds
 | | |
@@ -33,16 +34,16 @@ Rhythm game prototype with first level implemented for the Newcastle University 
 
 
 ### Gameplay
-**Normal notes:**
+**Normal notes:**<br /><br />
 <a name = "normal"><img src="https://github.com/Akeilee/Rhythm-Prototype-Level/blob/master/Screenshots/normal.png" width = "50"></a> <br /><br />
 
-**Double notes:**
+**Double notes:**<br /><br />
 <a name = "double"><img src="https://github.com/Akeilee/Rhythm-Prototype-Level/blob/master/Screenshots/double.png" width = "50"></a> <br /><br />
 
-**Holding notes:**
+**Holding notes:**<br /><br />
 <a name = "hold"><img src="https://github.com/Akeilee/Rhythm-Prototype-Level/blob/master/Screenshots/greenHold.png" width = "50"></a> <br /><br />
 
-**Special notes:**
+**Special notes:**<br /><br />
 <a name = "special"><img src="https://github.com/Akeilee/Rhythm-Prototype-Level/blob/master/Screenshots/special.png" width = "50"></a> <br /><br />
 
 
