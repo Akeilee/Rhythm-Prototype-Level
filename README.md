@@ -26,9 +26,9 @@ Rhythm game prototype with first level implemented for the Newcastle University 
 |**Arrow Keys**| Hitting notes |
 | | |
 |**Escape**| Pause menu |
-|**F1**| Show statistics |
-|**F2**| Cheat menu |
-|**F3**| Show timer |
+|**1**| Show statistics |
+|**2**| Cheat menu |
+|**3**| Show timer |
 <br />
 
 
