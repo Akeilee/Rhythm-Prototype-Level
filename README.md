@@ -4,8 +4,7 @@ Rhythm game prototype with first level implemented for the Newcastle University 
 
 ### Game Demo
 <a href = "https://akeilee.github.io/Rhythm-Prototype-Level/"><img src="https://github.com/Akeilee/Rhythm-Prototype-Level/blob/master/Screenshots/start.PNG" alt = "Game Link" width = "250"></a>
-
-[(Link)](https://akeilee.github.io/Rhythm-Prototype-Level/)<br /><br />
+<br /><br />
 
 
 ### Screenshots
