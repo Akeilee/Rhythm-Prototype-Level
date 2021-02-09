@@ -9,7 +9,7 @@ Rhythm game prototype with first level implemented for the Newcastle University 
 
 
 ### Screenshots
-<a name = "screenshot"><img src="https://github.com/Akeilee/Rhythm-Prototype-Initial/blob/master/Screenshots/gameplayGif.gif" width = "500"></a> <br /><br />
+<a name = "screenshot"><img src="https://github.com/Akeilee/Rhythm-Prototype-Level/blob/master/Screenshots/gameplayGif.gif" width = "500"></a> <br /><br />
 
 **Cheat Menu:**<br /><br />
 <a name = "cheat"><img src="https://github.com/Akeilee/Rhythm-Prototype-Level/blob/master/Screenshots/CheatMenu.PNG" width = "500"></a> <br /><br />
@@ -33,17 +33,17 @@ Rhythm game prototype with first level implemented for the Newcastle University 
 
 
 ### Gameplay
-**Normal:**<br /><br />
-<a name = "normal"><img src="https://github.com/Akeilee/Rhythm-Prototype-Level/blob/master/Screenshots/normal.png" width = "500"></a> <br /><br />
+**Normal notes:**<br /><br />
+<a name = "normal"><img src="https://github.com/Akeilee/Rhythm-Prototype-Level/blob/master/Screenshots/normal.png" width = "50"></a> <br /><br />
 
-**Doubles:**<br /><br />
-<a name = "double"><img src="https://github.com/Akeilee/Rhythm-Prototype-Level/blob/master/Screenshots/double.png" width = "500"></a> <br /><br />
+**Double notes:**<br /><br />
+<a name = "double"><img src="https://github.com/Akeilee/Rhythm-Prototype-Level/blob/master/Screenshots/double.png" width = "50"></a> <br /><br />
 
-**Holds:**<br /><br />
-<a name = "hold"><img src="https://github.com/Akeilee/Rhythm-Prototype-Level/blob/master/Screenshots/greenHold.png" width = "500"></a> <br /><br />
+**Holding notes:**<br /><br />
+<a name = "hold"><img src="https://github.com/Akeilee/Rhythm-Prototype-Level/blob/master/Screenshots/greenHold.png" width = "50"></a> <br /><br />
 
-**Specials:**<br /><br />
-<a name = "special"><img src="https://github.com/Akeilee/Rhythm-Prototype-Level/blob/master/Screenshots/special.png" width = "500"></a> <br /><br />
+**Special notes:**<br /><br />
+<a name = "special"><img src="https://github.com/Akeilee/Rhythm-Prototype-Level/blob/master/Screenshots/special.png" width = "50"></a> <br /><br />
 
 
 #### References
