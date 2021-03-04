@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: PlayerPose
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: PlayerBone waist
+    localPosition: {x: -2.563, y: 0.611, z: -1.338063}
+    localRotation: {x: -0.7312563, y: -0.6821028, z: -0, w: 0}
+    localScale: {x: 0.785, y: 0.785, z: 0.785}
+  - path: PlayerBone waist/chest
+    localPosition: {x: 0.5506468, y: -0.000000059604645, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.021265823, w: 0.99977386}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: PlayerBone waist/chest/head
+    localPosition: {x: 1.0881597, y: 6.2573235e-10, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.23617439, w: 0.97171074}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: PlayerBone waist/chest/head/eyes
+    localPosition: {x: 0.7026308, y: -0.0000001937151, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.85526407, w: 0.51819247}
+    localScale: {x: 0.99757, y: 0.99757, z: 0.99757}
+  - path: PlayerBone waist/chest/shoulder right
+    localPosition: {x: 0.63010037, y: -0.2724088, z: -0.00024236689}
+    localRotation: {x: 0, y: 0, z: -0.9021294, w: 0.43146572}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: PlayerBone waist/chest/shoulder right/arm right
+    localPosition: {x: 0.80226254, y: 0, z: 0.0005538296}
+    localRotation: {x: 0, y: 0, z: 0, w: 1}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: PlayerBone waist/chest/shoulder right/arm right/sword
+    localPosition: {x: 0.56963485, y: 0.0000000024447218, z: 0.00024236692}
+    localRotation: {x: 0, y: 0, z: 0.679746, w: 0.7334477}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: PlayerBone waist/chest/shoulder left
+    localPosition: {x: 0.65715826, y: 0.46498692, z: -0.0002429743}
+    localRotation: {x: 0, y: 0, z: 0.9777542, w: 0.20975398}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: PlayerBone waist/chest/shoulder left/arm left
+    localPosition: {x: 0.69077796, y: -0.000000029802322, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.021775873, w: 0.9997629}
+    localScale: {x: 0.83262, y: 1, z: 1}
+  - path: PlayerBone waist/chest/shoulder left/arm left/hand left
+    localPosition: {x: 0.755431, y: 0.007724881, z: -0.00024236689}
+    localRotation: {x: 0, y: 0, z: 0, w: 1}
+    localScale: {x: 0.2812214, y: 0.82279, z: 0.82279}
+  - path: PlayerBone waist/chest/bow
+    localPosition: {x: 0.45717826, y: 0.059109066, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.09749067, w: 0.9952365}
+    localScale: {x: 0.41549, y: 1, z: 1}
+  - path: PlayerBone waist/thigh right
+    localPosition: {x: -0.002334319, y: -0.2716129, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.99626344, w: 0.086366765}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: PlayerBone waist/thigh right/calf right
+    localPosition: {x: 1.1408436, y: -0.00000017881393, z: 0}
+    localRotation: {x: 0, y: 0, z: 0, w: 1}
+    localScale: {x: 1.4316, y: 1, z: 1}
+  - path: PlayerBone waist/thigh left
+    localPosition: {x: 0.05931024, y: 0.30095714, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.9891967, w: 0.14659418}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: PlayerBone waist/thigh left/calf left
+    localPosition: {x: 1.1042358, y: -0.000000059604645, z: 0}
+    localRotation: {x: 0, y: 0, z: 0, w: 1}
+    localScale: {x: 1.5647, y: 1, z: 1}
